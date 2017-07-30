@@ -1,0 +1,20 @@
+.comment_box{
+width:60%;
+height:100px;
+background-color:#fbfcfd;
+border-radius: 5px;
+border-color:black;
+border-width: 1px;
+margin-left: 12%;
+}
+.sub_btn{
+	background-color: #0b5345;
+	border-radius:5px;
+	margin-bottom:20px;
+	width:100px;
+	height:30px;
+	color: white;
+	border-width: 0px;
+	margin-left: 59%;
+	margin-top: 2px;
+}
